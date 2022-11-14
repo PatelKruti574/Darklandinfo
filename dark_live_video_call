@@ -1,7 +1,7 @@
 {
 "STATUS":true,
    "MSG":"",
-   "onback_adshow":"",
+   "onback_adshow":"1",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
       "app_adShowStatus":"1"
@@ -17,29 +17,29 @@
           "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"",
-          "Banner1":"IMG_16_9_APP_INSTALL#3011693982286504_3122146901241211",
-         "Interstitial1":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial2":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial3":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial4":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial5":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial6":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial7":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial8":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-          "Interstitial9":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-           "Interstitial10":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-          "Interstitial_exit":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial_exit1":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial_exit2":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",  
-         "Interstitial_exit3":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial_exit4":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial_exit5":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-           "Interstitial_exit6":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-             "Interstitial_exit7":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-               "Interstitial_exit8":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Native1":"IMG_16_9_APP_INSTALL#3011693982286504_3011695365619699",
-         "NativeBanner1":"IMG_16_9_APP_INSTALL#230807221472038_474481330437958"
+         "ad_showAdStatus":"1",
+          "Banner1":"813144799740261_813145949740146",
+         "Interstitial1":"813144799740261_813514746369933",
+         "Interstitial2":"813144799740261_813514893036585",
+         "Interstitial3":"813144799740261_813515073036567",
+         "Interstitial4":"813144799740261_813515236369884",
+         "Interstitial5":"813144799740261_813515343036540",
+         "Interstitial6":"813144799740261_813515556369852",
+         "Interstitial7":"813144799740261_813515733036501",
+         "Interstitial8":"813144799740261_813515916369816",
+          "Interstitial9":"813144799740261_813516043036470",
+           "Interstitial10":"813144799740261_813516266369781",
+          "Interstitial_exit":"813144799740261_813516449703096",
+         "Interstitial_exit1":"813144799740261_813516626369745",
+         "Interstitial_exit2":"813144799740261_813516806369727",  
+         "Interstitial_exit3":"813144799740261_813517033036371",
+         "Interstitial_exit4":"813144799740261_813517166369691",
+         "Interstitial_exit5":"813144799740261_813517326369675",
+           "Interstitial_exit6":"813144799740261_813517533036321",
+             "Interstitial_exit7":"813144799740261_813517729702968",
+               "Interstitial_exit8":"813144799740261_813517929702948",
+         "Native1":"813144799740261_813518123036262",
+         "NativeBanner1":"813144799740261_813518346369573"
 
           
       },
@@ -48,7 +48,7 @@
           "AppID":"4923729"
       },
       "QurekaLite":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
           "AppID":"https://336.set.qureka.com/"
       }
    }
